@@ -1,0 +1,2 @@
+# CrimeAnalysis-LosAngeles
+The aim of this project is to analyse the crimes which had happened from the year 2010 to 2017 in Los Angeles city through data visualisation techniques. Using various visualisation method, we can infer some key notes on how and where the city protection lags behind in Los Angeles. There are many important features in dataset like crime type, crime occurred date, gender who is affected by the crime. This helps to derive a good conclusion in analysis.
